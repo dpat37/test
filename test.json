@@ -28,8 +28,7 @@
                     },
                 ],
                 "tags": [
-                    "Preferences",
-					"Marketing"
+					"Marketing Preferences"
                 ],
                 "responses": {
                     "200": {
