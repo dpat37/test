@@ -25,7 +25,7 @@
                         "description": "Application Info Source ID to be used to authenticate participating App.",
                         "required": true,
                         "type": "string"
-                    },
+                    }
                 ],
                 "tags": [
 					"Marketing Preferences"
